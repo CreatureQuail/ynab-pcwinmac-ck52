@@ -1,4 +1,4 @@
-# 
+# Exclusive YNAB scripts for Mac OS | Official YNAB scripts for PC Windows. Featuring multi-device support and project accounting — optimized for maximum performance on every platform.
 
 
 
